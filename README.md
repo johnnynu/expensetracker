@@ -9,6 +9,10 @@ Expense Tracker is a web application made with React in the frontend and Node/Ex
 ![github](https://media.giphy.com/media/bAPuKgli9Vg2Z5aShw/giphy.gif)
 
 
+- Adding income
+
+![income](https://media.giphy.com/media/O9Hh4AzqxLqtQU0XvA/giphy.gif)
+
 
 ## Features
 
