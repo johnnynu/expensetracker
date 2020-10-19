@@ -4,7 +4,8 @@ Expense Tracker is a web application made with React in the frontend and Node/Ex
 
 ## Demo
 ```bash
-Coming shortly
+- Adding Expenses
+![me](https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif)
 ```
 
 ## Features
@@ -19,6 +20,9 @@ Coming shortly
 ```javascript
 npm start
 ```
+## Todo's
+- Add an edit function to edit the transaction
+- Add a calendar for date of transaction
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
