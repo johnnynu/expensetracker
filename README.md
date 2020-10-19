@@ -3,14 +3,12 @@
 Expense Tracker is a web application made with React in the frontend and Node/Express in the backend along with MongoDB as the database. This project was created to have a better understanding of the MERN stack!
 
 ## Demo
-```bash
 - Adding Expenses
 
 
 ![github](https://media.giphy.com/media/ZNM3UAyC9QtZnn6rxH/giphy.gif)
 
 
-```
 
 ## Features
 
